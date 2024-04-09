@@ -22,7 +22,7 @@ pipx install git+https://github.com/GONZOsint/factcheckexplorer.git
 Here's how to quickly get started with the FactCheckExplorer library:
 
 ```python
-from factcheckexplorer import FactCheckLib
+from factcheckexplorer.factcheckexplorer import FactCheckLib
 
 # Initialize the library with your query and desired settings
 fact_check = FactCheckLib(query="global warming", language="en", num_results=200)
