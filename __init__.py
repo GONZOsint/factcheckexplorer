@@ -1,1 +1,1 @@
-from .factcheckexplorer import FactCheckLib
+from factcheckexplorer.factcheckexplorer import FactCheckLib
