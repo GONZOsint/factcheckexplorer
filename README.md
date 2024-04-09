@@ -14,7 +14,7 @@ The FactCheckExplorer library provides an easy-to-use Python interface for query
 You can install the FactCheckExplorer library directly from GitHub. Ensure you have `git` and `pip` installed on your machine, then run the following command:
 
 ```bash
-pip install git+https://github.com/GONZOsint/factcheckexplorer.git
+pipx install git+https://github.com/GONZOsint/factcheckexplorer.git
 ```
 
 ## Quick Start 🚀
