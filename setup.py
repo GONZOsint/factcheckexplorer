@@ -9,7 +9,5 @@ setup(
         'requests',
     ],
     description='A Python library for fetching fact-checking data from Google Fact Check Explorer.',
-    long_description=open('README.md').read(),
-    long_description_content_type='text/markdown',
     url='https://github.com/GONZOsint/factcheckexplorer',
 )
